@@ -1,0 +1,5 @@
+feed cats, high
+walk dog, high
+wash dishes, low
+study Python, high
+take a break, high
